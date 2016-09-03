@@ -15,7 +15,11 @@
       <pubDate>Thu, 01 Sep 2016 20:39:59 -0700</pubDate>
       
       <guid>https://nguyengiabk.github.io/post/first-post/</guid>
-      <description>&lt;p&gt;Hello world!&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h2&gt;
+
+&lt;p&gt;Say hello to the world.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;kn&#34;&gt;package&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;main&lt;/span&gt;
 
 &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
