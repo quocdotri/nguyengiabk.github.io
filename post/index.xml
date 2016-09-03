@@ -16,19 +16,10 @@
       
       <guid>https://nguyengiabk.github.io/post/first-post/</guid>
       <description>&lt;p&gt;Hello world!&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
-
-import (
-    &amp;quot;fmt&amp;quot;
-
-    &amp;quot;github.com/user/stringutil&amp;quot;
-)
-
-func main() {
-    fmt.Printf(stringutil.Reverse(&amp;quot;!oG ,olleH&amp;quot;))
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34; data-lang=&#34;ruby&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;puts&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;Hello, World&amp;quot;&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;puts&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;Hello, World&amp;quot;&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;puts&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;Hello, World&amp;quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </description>
     </item>
     
